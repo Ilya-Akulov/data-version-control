@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\iakulov\Try_to_work_with_DVC\dvc_remote
